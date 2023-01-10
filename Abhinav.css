@@ -1,0 +1,28 @@
+.ibox{
+    width: 100%;
+    height: 50%;
+}
+.AbhinavI{
+    width: 100%; 
+    height: 500px; 
+    object-fit: contain;
+}
+.Detail{
+    margin-left: 20%;
+    margin-bottom: 200px;
+}
+.btn{
+    padding: 10px;
+    cursor: pointer;
+    margin-bottom: 100px;
+    float: right;
+    margin-right: 100px;
+    background-color: blue;
+    border-radius: 12px;
+    border-color: black;
+    width: 300px;
+}
+.btn:hover{
+    padding: 15px;
+    background-color: blanchedalmond;
+}
